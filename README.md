@@ -22,7 +22,7 @@
     <a href="[https://blog.sunguoqi.com/](https://juejin.cn/user/787689310784280/posts)"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="[https://blog.csdn.net/weixin_50915462/](https://blog.csdn.net/m0_46069937?spm=1000.2115.3001.5343)"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=lpdbz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
